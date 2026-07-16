@@ -73,9 +73,7 @@ The application is intended to improve communication—not replace the final des
 
 ## Technology Stack
 
-- HTML5
-- CSS3
-- JavaScript
+- HTML
 - GitHub Pages (hosting)
 - Built with AI-assisted development using OpenAI Codex
 
